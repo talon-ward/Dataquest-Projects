@@ -1,0 +1,1 @@
+This repository is a collection of guided projects completed from Dataquest.io courses. These projects have minimal exposition and are recorded to represent completion of the course material.
